@@ -29,7 +29,7 @@ For S.H.O.O.T.E.R. to work you must install these two mods beforehand, see 3. In
 		Recoil system is introduced
 		Fire modes were removed in favor of more defined sandbox roles and proper recoil patterns
 
-	2. 2 ARMOR & OUTFITS:
+	2.2 ARMOR & OUTFITS:
 
 		Jackets now give no bulletproof resistance but offer increased carry weight and good protection against mutant attacks
 		Environmental suits offer no bulletproof protection and can deteriorate easily but offer maximum radioactive resistance.
